@@ -85,9 +85,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        I’m Santam — I build smooth UIs, wire up powerful backends, and love bringing ideas to life. Whether it’s a slick React Native app or a full-stack web platform, I move fast, ship clean, and keep the user at the center. Just me, code, and a caffeine-fueled roadmap.
       </>
     ),
   },
@@ -96,18 +94,26 @@ const about = {
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "Accenture",
+        timeframe: "November, 2023 - Present",
+        role: "Software Engineer",
         achievements: [
-          <>
-            Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
-            engagement and 30% faster load times.
-          </>,
-          <>
-            Spearheaded the integration of AI tools into design workflows, enabling designers to
-            iterate 50% faster.
-          </>,
+          <>Built scalable backend systems using Python (Django) and GoLang; reduced API response times by 30% through advanced caching, optimized queries, and async processing.</>,
+          <>Designed microservices architectures with Docker and Kubernetes, boosting fault isolation, scalability, and deployment efficiency.</>,
+          <>Automated CI/CD pipelines with GitHub Actions, Jenkins, Gradle, and Fastlane; reduced deployment times and manual effort by 60%.</>,
+          <>Developed high-performance cross-platform mobile apps (Android/iOS) using React Native, integrating native modules, Kotlin-based SDKs, and secure flows.</>,
+          <>Implemented secure authentication systems including OAuth 2.0, JWT, SSO; protected web/mobile routes using React Router and platform-specific techniques.</>,
+          <>Built custom Android SDKs for payments, SSO, and authentication; ensured secure data transmission via SSL pinning, ProGuard, R8, and iOS ATS policies.</>,
+          <>Delivered responsive React.js frontends, integrating REST APIs with lazy loading, code splitting, and Emotion (CSS-in-JS) for enhanced UX.</>,
+          <>Utilized Redux, Context API, and TypeScript to build modular, reusable, and performant components with clean architecture and SOLID principles.</>,
+          <>Integrated RESTful APIs, GraphQL, and WebSockets, enabling real-time communication and reducing server polling.</>,
+          <>Leveraged PostgreSQL, MongoDB, and Redis, fine-tuning indexes and queries for optimal data access and system responsiveness.</>,
+          <>Achieved 85%+ test coverage through robust automated testing using Jest, Detox, Mocha, Jasmine, and promoted Test-Driven Development (TDD) practices.</>,
+          <>Optimized mobile performance using lazy loading, native animation drivers, and memory profiling, reducing Android load times by 30%.</>,
+          <>Utilized Webpack and ParcelJS for advanced bundling and build optimizations in both web and mobile dev workflows.</>,
+          <>Led system monitoring and incident response using Prometheus, Grafana, and ELK Stack, reducing downtime by 30% and improving root cause analysis.</>,
+          <>Collaborated in Agile teams with backend devs, designers, QA, and PMs, actively participating in architecture/code reviews, sprints, and peer programming.</>,
+
         ],
         images: [
           // optional: leave the array empty if you don't want to display images
